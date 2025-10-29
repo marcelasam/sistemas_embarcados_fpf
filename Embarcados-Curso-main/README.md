@@ -1,4 +1,4 @@
-<div align="center"> <h1>Curso de Sistemas Embarcados – FPF Tech</h1> <img src="https://platformio.org/images/platformio-logo.svg" alt="PlatformIO" width="120"/> <br/> <b>Repositório oficial do curso com foco em ESP32 e Arduino</b> </div>
+<div align="center"> <h1>Curso de Sistemas Embarcados – FPF Tech</h1>  <br/> <b>Repositório oficial do curso com foco em ESP32 e Arduino</b> </div>
 🎓 Sobre o curso
 
 O Curso de Sistemas Embarcados da FPF Tech tem como objetivo capacitar alunos nos fundamentos e práticas de desenvolvimento embarcado, com foco em Arduino, ESP32 e IoT.
